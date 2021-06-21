@@ -1,4 +1,4 @@
-# CRAFToons WebSite
+# *CRAFToons WebSite*
 
 Technologies Used:
 > HTML
@@ -23,11 +23,11 @@ This website helps the local artists to market their products at global level.
 There are many talented artists and craft creators in our locality but due to lack of contacts they don't get proper exposure. CRAFToon is a shop which helps these local artists market their products. Due to this Covid pandemic situation people don't visit the shop often. Using this online product catalogue website customers can find the products of their choice and based on its availability they can decide when to visit the shop.
 The website includes the products available for sale in the CRAFToon shop which are created by local artists. 
 
-## Challenges I ran into: 
+## *Challenges I ran into: *
 
 Proper arrangement of the products to catch the viewers attention was a challenge. Working with javascript will be challenging as well.
 
-## The features we are planning to include :
+## *The features we are planning to include :*
 
 The website will contain the product catalogue of the products available for sale in the shop. The products will be categorized into different sections for more clarification of the viewer. The products will have a proper description.
 There will be a section called new arrivals which will have the most recent added products. 
