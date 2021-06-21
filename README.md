@@ -1,6 +1,6 @@
 # *CRAFToons WebSite*
 
-Technologies Used:
+## Technologies Used:
 
 
 > <code><a href="https:#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
@@ -11,10 +11,9 @@ Technologies Used:
 >
 > <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 
-Design Notes
-> Adobe XD
->
-> Adobe Illustrator
+## Design Notes
+
+>  <code><a href="https:#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg"></a></code><code><a href="https:#" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/50192249/122746846-0da22180-d2a8-11eb-81db-4a5fdc5d32df.png"></a></code>
 
 We make the world look beautiful !
 
