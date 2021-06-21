@@ -32,3 +32,8 @@ The website includes the products available for sale in the CRAFToon shop which 
 *The website will contain the product catalogue of the products available for sale in the shop. The products will be categorized into different sections for more clarification of the viewer. The products will have a proper description.
 There will be a section called new arrivals which will have the most recent added products. 
 Product price will also be mentioned on the website for better understanding of the viewer and many more.*
+
+
+<code><a href="https:#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
+<code><a href="#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
