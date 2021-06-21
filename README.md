@@ -1,4 +1,4 @@
-# CRAFToons Web Site
+# CRAFToons WebSite
 
 Technologies Used:
 > HTML
