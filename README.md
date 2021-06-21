@@ -27,7 +27,7 @@ The website includes the products available for sale in the CRAFToon shop which 
 
 Proper arrangement of the products to catch the viewers attention was a challenge. Working with javascript will be challenging as well.
 
-## *The features we are planning to include :*
+## *The features:*
 
 The website will contain the product catalogue of the products available for sale in the shop. The products will be categorized into different sections for more clarification of the viewer. The products will have a proper description.
 There will be a section called new arrivals which will have the most recent added products. 
